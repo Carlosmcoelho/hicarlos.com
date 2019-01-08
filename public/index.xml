@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos Coelho</title>
+    <link>/</link>
+    <description>Recent content on Carlos Coelho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Dec 2018 21:22:05 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Education</title>
+      <link>/education/</link>
+      <pubDate>Tue, 11 Dec 2018 21:22:05 +0100</pubDate>
+      
+      <guid>/education/</guid>
+      <description>All about my education</description>
+    </item>
+    
+    <item>
+      <title>My Expirence</title>
+      <link>/work/</link>
+      <pubDate>Tue, 11 Dec 2018 21:21:35 +0100</pubDate>
+      
+      <guid>/work/</guid>
+      <description>All about my Expirence</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Tue, 11 Dec 2018 21:15:57 +0100</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Projects test</description>
+    </item>
+    
+    <item>
+      <title>Happy to talk to you.</title>
+      <link>/contact/</link>
+      <pubDate>Tue, 11 Dec 2018 21:12:37 +0100</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>contact tas page</description>
+    </item>
+    
+    <item>
+      <title>About Carlos Coelho</title>
+      <link>/about/</link>
+      <pubDate>Tue, 11 Dec 2018 21:06:30 +0100</pubDate>
+      
+      <guid>/about/</guid>
+      <description>All about me
+He has been working for HCL Technologies, a global IT services company, providing high quality technical services as a Senior IT Analyst. His contribution resulted in new services and high profits for the company. He is a leader of a team responsible for data analysis and creating reports in order to improve the global performance of the project. He has become a trusted team member who provides regular pro-active input towards increasing productivity.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>/posts/test_post/</link>
+      <pubDate>Tue, 11 Dec 2018 20:52:08 +0100</pubDate>
+      
+      <guid>/posts/test_post/</guid>
+      <description>This is my first post.</description>
+    </item>
+    
+  </channel>
+</rss>
