@@ -1,7 +1,7 @@
 baseurl = ""
 title = "Carlos Coelho"
 
-theme = "hugo-coder"
+theme = "hugo"
 
 languagecode = "en"
 
