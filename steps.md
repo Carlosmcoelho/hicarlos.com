@@ -50,7 +50,7 @@ You can then run ./deploy.sh "Your optional commit message" to send changes to <
 
 That’s it! Your personal page should be up and running at https://<USERNAME>.github.io within a couple minutes.
 
-*Github Project Page*:
+**Github Project Page**:
 Make sure your baseURL key-value in your site configuration reflects the full URL of your GitHub pages repository if you’re using the default GH Pages URL (e.g., <USERNAME>.github.io/<PROJECT>/) and not a custom domain.
 
 Deployment of Project Pages from Your master Branch 
