@@ -13,6 +13,11 @@ Once you are happy with the results:
 This creates a git submodule. Now when you run the hugo command to build your site to public, the created public directory will have a different remote origin (i.e. hosted GitHub repository). You can automate some of these steps with the following script.
 
 You can also add a **deploy.sh** script to automate the preceding steps for you. You can also make it executable with **chmod +x** **deploy.sh**.
+``
+cd folderpaht
+touch deploy.sh
+``
+Open file on text editor.
 
 The following are the contents of the **deploy.sh** script:
 ```
