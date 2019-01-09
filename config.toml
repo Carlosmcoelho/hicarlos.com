@@ -12,15 +12,15 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "hicarlos"
+disqusShortname = "disable_comments"
 
 [params]
     author = "Carlos Coelho"
     description = "Carlos Coelho's personal website"
     keywords = "blog,developer,personal"
-    info = "IT Support Engenire"
+    info = "IT Support Engenire Lead"
     avatarurl = "images/avatar.jpg"
-    footercontent = "..."
+    footercontent = ". . ."
 
     dateformat = "January 2, 2006"
 
