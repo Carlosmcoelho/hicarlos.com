@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "hicarlos.eu"
 title = "Carlos Coelho"
 
 theme = "hugo"
@@ -20,7 +20,7 @@ disqusShortname = "disable_comments"
     keywords = "blog,developer,personal"
     info = "IT Support Engenire Lead"
     avatarurl = "images/avatar.jpg"
-    footercontent = ". . ."
+    footercontent = "carloscoelho[at]protonmail.com"
 
     dateformat = "January 2, 2006"
 

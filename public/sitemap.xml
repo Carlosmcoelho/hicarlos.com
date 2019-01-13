@@ -3,54 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/education/</loc>
-    <lastmod>2018-12-11T21:22:05+01:00</lastmod>
+    <loc>hicarlos.eu/education/</loc>
+    <lastmod>2019-01-11T21:22:05+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/</loc>
-    <lastmod>2018-12-11T21:21:35+01:00</lastmod>
+    <loc>hicarlos.eu/work/</loc>
+    <lastmod>2019-01-11T21:21:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/projects/</loc>
+    <loc>hicarlos.eu/projects/</loc>
     <lastmod>2018-12-11T21:15:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>hicarlos.eu/contact/</loc>
     <lastmod>2018-12-11T21:12:37+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>hicarlos.eu/about/</loc>
     <lastmod>2018-12-11T21:06:30+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/test_post/</loc>
+    <loc>hicarlos.eu/posts/test_post/</loc>
     <lastmod>2018-12-11T20:52:08+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-12-11T21:22:05+01:00</lastmod>
+    <loc>hicarlos.eu/</loc>
+    <lastmod>2019-01-11T21:22:05+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>hicarlos.eu/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>hicarlos.eu/posts/</loc>
     <lastmod>2018-12-11T20:52:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>hicarlos.eu/tags/</loc>
     <priority>0</priority>
   </url>
   
