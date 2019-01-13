@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carlos Coelho</title>
-    <link>hicarlos.eu/</link>
+    <link>/</link>
     <description>Recent content on Carlos Coelho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 11 Jan 2019 21:22:05 +0100</lastBuildDate>
     
-	<atom:link href="hicarlos.eu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Education</title>
-      <link>hicarlos.eu/education/</link>
+      <link>/education/</link>
       <pubDate>Fri, 11 Jan 2019 21:22:05 +0100</pubDate>
       
-      <guid>hicarlos.eu/education/</guid>
+      <guid>/education/</guid>
       <description>2018 - 2019 – Ivan Liljeqvist – Ivanontech.com
 &amp;nbsp;&amp;nbsp;Blockchain Business Masterclass
 2017 – Animal Ventures – Udemy.com
@@ -36,10 +36,10 @@
     
     <item>
       <title>Work Expirence</title>
-      <link>hicarlos.eu/work/</link>
+      <link>/work/</link>
       <pubDate>Fri, 11 Jan 2019 21:21:35 +0100</pubDate>
       
-      <guid>hicarlos.eu/work/</guid>
+      <guid>/work/</guid>
       <description>January 2017 – Current – IT Shift Lead – HCL Technologies, Poland
  Escalation point and mentoring L1 / L2;
  Manage the Service desk staff to ensure consistent and high quality service to the customer&amp;rsquo;s end users inline with all SLA’s and KPI’s.
@@ -49,10 +49,10 @@
     
     <item>
       <title>Projects</title>
-      <link>hicarlos.eu/projects/</link>
+      <link>/projects/</link>
       <pubDate>Tue, 11 Dec 2018 21:15:57 +0100</pubDate>
       
-      <guid>hicarlos.eu/projects/</guid>
+      <guid>/projects/</guid>
       <description>bjkbjkb
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;HiCarlos.eu
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;LiqeCast
@@ -66,30 +66,30 @@ Online Portfolio https://codepen.io/carlosmcoelho/full/NNJNKV</description>
     
     <item>
       <title>Happy to talk to you.</title>
-      <link>hicarlos.eu/contact/</link>
+      <link>/contact/</link>
       <pubDate>Tue, 11 Dec 2018 21:12:37 +0100</pubDate>
       
-      <guid>hicarlos.eu/contact/</guid>
+      <guid>/contact/</guid>
       <description>Please contact me by email - carloscoelho@protonmail.com
 Linkedin - carlosmcoelho</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>hicarlos.eu/about/</link>
+      <link>/about/</link>
       <pubDate>Tue, 11 Dec 2018 21:06:30 +0100</pubDate>
       
-      <guid>hicarlos.eu/about/</guid>
+      <guid>/about/</guid>
       <description>All about me
 He has been working for HCL Technologies, a global IT services company, providing high quality technical services as a Senior IT Analyst. His contribution resulted in new services and high profits for the company. He is a leader of a team responsible for data analysis and creating reports in order to improve the global performance of the project. He has become a trusted team member who provides regular pro-active input towards increasing productivity.</description>
     </item>
     
     <item>
       <title>Hello World!</title>
-      <link>hicarlos.eu/posts/test_post/</link>
+      <link>/posts/test_post/</link>
       <pubDate>Tue, 11 Dec 2018 20:52:08 +0100</pubDate>
       
-      <guid>hicarlos.eu/posts/test_post/</guid>
+      <guid>/posts/test_post/</guid>
       <description>This is my first post.</description>
     </item>
     
