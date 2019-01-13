@@ -13,6 +13,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "hicarlos"
+googleAnalytics = "UA-132334013-1"
 
 [params]
     author = "Carlos Coelho"
@@ -49,6 +50,11 @@ disqusShortname = "hicarlos"
     icon = "fab fa-linkedin"
     weight = 2
     url = "https://www.linkedin.com/in/carlosmcoelho/"
+[[params.social]]
+    name = "RSS"
+    weight = 3
+    url = "/index.xml/"
+    icon = "fa fa-rss-square"
 
 [[menu.main]]
     name = "About"
@@ -74,42 +80,3 @@ disqusShortname = "hicarlos"
     name = "Say Hi"
     weight = 6
     url = "/contact/"
-
-[languages]
-    [languages.en]
-        languagename = "English" # The language name to be displayed in the selector.
-        title = "Carlos Coelho"
-
-        # You can configure the theme parameter for each language.
-        [languages.en.params]
-        author = "Carlos Coelho"
-        info = "IT Service Desk Lead"
-        description = "Carlos Coelho's personal website"
-        keywords = "blog,developer,personal"
-
-        [languages.en.menu] # It is possible to change the menu too.
-
-        [[languages.en.menu.main]]
-        name = "About"
-        weight = 1
-        url = "/about/"
-    [[languages.en.menu.main]]
-        name = "Expirence"
-        weight = 2
-        url = "/work/"
-    [[languages.en.menu.main]]
-        name = "Education"
-        weight = 3
-        url  = "/education/"
-    [[languages.en.menu.main]]
-        name = "Projects"
-        weight = 4
-        url = "/projects/"
-    [[languages.en.menu.main]]
-        name = "Notes"
-        weight = 5
-        url  = "/posts/"
-    [[languages.en.menu.main]]
-        name = "Say Hi"
-        weight = 6
-        url = "/contact/"
