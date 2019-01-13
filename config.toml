@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "//hicarlos.eu"
 title = "Carlos Coelho"
 
 theme = "hugo"
@@ -8,17 +8,17 @@ languagecode = "en"
 paginate = 20
 canonifyurls = true
 
-pygmentsstyle = "b2"
+pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "disable_comments"
+disqusShortname = "hicarlos"
 
 [params]
     author = "Carlos Coelho"
     description = "Carlos Coelho's personal website"
-    keywords = "blog,developer,personal"
-    info = "IT Support Engenire Lead"
+    keywords = "Leader, developer, customer service, it support, service des, project manager"
+    info = "IT Support Engenire"
     avatarurl = "images/avatar.jpg"
     footercontent = "carloscoelho[at]protonmail.com"
 
@@ -45,14 +45,9 @@ disqusShortname = "disable_comments"
     weight = 1
     url = "https://github.com/carlosmcoelho/"
 [[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab"
-    weight = 2
-    url = "https://gitlab.com/carlosmcoelho/"
-[[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
-    weight = 3
+    weight = 2
     url = "https://www.linkedin.com/in/carlosmcoelho/"
 
 [[menu.main]]
