@@ -6,10 +6,19 @@
     <description>Recent content on Carlos Coelho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Jan 2019 21:22:05 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jan 2019 18:20:31 +0100</lastBuildDate>
     
 	<atom:link href="//hicarlos.eu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello World</title>
+      <link>//hicarlos.eu/posts/hello-world/</link>
+      <pubDate>Sun, 13 Jan 2019 18:20:31 +0100</pubDate>
+      
+      <guid>//hicarlos.eu/posts/hello-world/</guid>
+      <description>This is my first post.</description>
+    </item>
     
     <item>
       <title>Education</title>
@@ -53,15 +62,18 @@
       <pubDate>Tue, 11 Dec 2018 21:15:57 +0100</pubDate>
       
       <guid>//hicarlos.eu/projects/</guid>
-      <description>bjkbjkb
+      <description>My Personal Website - Go Hugo (Static Generetor)
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;HiCarlos.eu
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;LiqeCast
-Wordpress website
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Freecodecamp Profile
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Codepen Profile
-Quote https://codepen.io/carlosmcoelho/full/VjvJQo
-Tribute Page https://codepen.io/carlosmcoelho/full/pyYgZX
-Online Portfolio https://codepen.io/carlosmcoelho/full/NNJNKV</description>
+Podcast Service Provider - Wordpress
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;LiqeCast.com
+Quote - JavaScript
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Codepen
+Tribute Page - HTML/CSS
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Codepen
+Online Portfolio - HTML/CSS/JavaScript
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Codepen
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;FreeCodeCamp Profile
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Codepen Profile</description>
     </item>
     
     <item>
@@ -70,7 +82,7 @@ Online Portfolio https://codepen.io/carlosmcoelho/full/NNJNKV</description>
       <pubDate>Tue, 11 Dec 2018 21:12:37 +0100</pubDate>
       
       <guid>//hicarlos.eu/contact/</guid>
-      <description>Please contact me by email - carloscoelho@protonmail.com
+      <description>@ - carloscoelho@protonmail.com
 Linkedin - carlosmcoelho</description>
     </item>
     
@@ -80,17 +92,7 @@ Linkedin - carlosmcoelho</description>
       <pubDate>Tue, 11 Dec 2018 21:06:30 +0100</pubDate>
       
       <guid>//hicarlos.eu/about/</guid>
-      <description>All about me
-He has been working for HCL Technologies, a global IT services company, providing high quality technical services as a Senior IT Analyst. His contribution resulted in new services and high profits for the company. He is a leader of a team responsible for data analysis and creating reports in order to improve the global performance of the project. He has become a trusted team member who provides regular pro-active input towards increasing productivity.</description>
-    </item>
-    
-    <item>
-      <title>Hello World!</title>
-      <link>//hicarlos.eu/posts/test_post/</link>
-      <pubDate>Tue, 11 Dec 2018 20:52:08 +0100</pubDate>
-      
-      <guid>//hicarlos.eu/posts/test_post/</guid>
-      <description>This is my first post.</description>
+      <description>Carlos is an IT Technical Support Lead with outstanding customer relationship. He has been working for HCL Technologies, a global IT services company, providing high-quality technical services as an IT Shift Lead.</description>
     </item>
     
   </channel>

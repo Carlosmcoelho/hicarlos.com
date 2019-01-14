@@ -10,9 +10,10 @@ draft: false
  - Act as point of contact for business management and escalation of issues;  
  - Liaise with support teams and vendors for knowledge transfer and ensuring a standard model of support is implemented;  
  - Documentation (SOP) and preparing required reports;  
- - Perform L2 support, remote desktop support (Windows and Mac).
+ - Perform L2 support, remote desktop support (Windows and Mac);  
+ - Conducting recruitment interviews for customer support representatives.
 
-**Achievements:** *Extraordinary level of support during the project reorganisation and constant actions towards improvements. Resulted the continuation of the business operation and business growth.*
+**Achievements:** *Implementation of CSAT and new system to monitor productivity. The outcomes were 7 percentage point increase in CSAT and 22% more in productivity.*
 ___
 
 October 2016 – December 2016 –  **IT Specialist** – HCL Technologies, Poland  
@@ -22,26 +23,24 @@ October 2016 – December 2016 –  **IT Specialist** – HCL Technologies, Pola
  - Participate in-depth incident handling;  
  - Active Directory management, Microsoft Exchange Server, Microsoft Lync Server, Citrix Director and SCCM;  
  - Liaise with support teams and vendors for knowledge transfer and ensuring a standard model of support is implemented;  
- - Team lead backup, documentation (SOP) and preparing required reports;  
- - Work closely with management to prioritise business goals (SLA);  
- - Involved in the implementation of the L2 support.  
+ - Team lead backup, documentation (SOP) and preparing required reports;   
 
-**Achievements:** *Extraordinary level of support during the project reorganisation and constant actions towards improvements. Resulted the continuation of the business operation and business growth.*
+**Achievements:** *Involved in the implementation of the L2 support*
 ___
 
 July. 2015 – September 2016 –  **IT Senior Analyst** – HCL Technologies, Poland  
 May. 2014 – June 2015 –  **IT Analyst**  
 
- - Dealing with customers remote;  
+ - Dealing with customers (email, phone, chat);  
  - Assess, prioritize, respond, and escalate issues accordingly;  
  - Support desktop, laptop and mobile;  
  - Windows, Office and business applications support;  
  - Troubleshooting (hardware, software, network, printers, mobile OS);  
  - Leading a team to improve the Service Level Agreement;  
- - Documentation and preparing required reports;  
+ - Team lead backup, documentation, training new joiners and preparing reports; 
  - Operating ticketing tools.
 
-**Achievements:** *Lead a team responsible for data analysis and knowledge articles that improved in 28% the FCR performance of the project. Outstanding technical support that resulted in new services and more profits for the company.*
+**Achievements:** *Lead a team of two, responsible for data analysis and knowledge articles that improved in 28% the FCR performance of the project. Outstanding technical support that resulted in new services and more profits for the company.*
 ___
 
 Jan. 2011 – Sep. 2013 – **IT Technical Support** – Freelancer  
@@ -50,10 +49,7 @@ Jan. 2011 – Sep. 2013 – **IT Technical Support** – Freelancer
  - Customers support (Windows, Mac and Office applications support);
  - Installing and maintaining hardware and software (PC and laptop);
  - Maintenance and configuration of wireless network and cable network;
- - Backup, printers and scanners, antivirus, upgrades.  
-
-huho
-___
+ - Backup, printers and scanners, antivirus, upgrades.   
 
 Jan. – Dec. 2009 – **Mobile Networks Management** – Nokia Siemens Networks, Portugal  
 
@@ -61,9 +57,6 @@ Jan. – Dec. 2009 – **Mobile Networks Management** – Nokia Siemens Networks
  - Troubleshooting;  
  - Configuration networks;  
  - Document and reporting and managing incidents.  
-
-hh
-___
 
 Mar. – Aug. 2008 – **Computer Networks Technician** – Internship, Instituto Politécnico de Leiria, Portugal  
 

@@ -18,8 +18,8 @@ googleAnalytics = "UA-132334013-1"
 [params]
     author = "Carlos Coelho"
     description = "Carlos Coelho's personal website"
-    keywords = "Leader, developer, customer service, it support, service des, project manager"
-    info = "IT Support Engenire"
+    keywords = "Leader, developer, customer service, it support, service desk, project manager, team leader"
+    info = "IT Support Team Lead"
     avatarurl = "images/avatar.jpg"
     footercontent = "carloscoelho[at]protonmail.com"
 

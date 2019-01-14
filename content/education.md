@@ -31,6 +31,9 @@ draft: false
 2013 November – ELTA – Dublin, Ireland  
  &nbsp;&nbsp;**General English**
 
+2010 - 2013 – Instituto Politécnico de Tomar  
+ &nbsp;&nbsp;**Degree in Photography**  
+
 2006 - 2008 – Instituto Politécnico de Leiria  
  &nbsp;&nbsp;**Higher Certificate in Network Administration**  
  &nbsp;&nbsp;&nbsp;&nbsp;Training in Cisco Career Certifications (CCNA and CCNP);  
