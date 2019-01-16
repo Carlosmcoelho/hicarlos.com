@@ -25,7 +25,7 @@ October 2016 – December 2016 –  **IT Specialist** – HCL Technologies, Pola
  - Liaise with support teams and vendors for knowledge transfer and ensuring a standard model of support is implemented;  
  - Team lead backup, documentation (SOP) and preparing required reports;   
 
-**Achievements:** *Involved in the implementation of the L2 support*
+**Achievements:** *Involved in the implementation of the L2 support. Zero customer escalations received.*
 ___
 
 July. 2015 – September 2016 –  **IT Senior Analyst** – HCL Technologies, Poland  
@@ -40,7 +40,7 @@ May. 2014 – June 2015 –  **IT Analyst**
  - Team lead backup, documentation, training new joiners and preparing reports; 
  - Operating ticketing tools.
 
-**Achievements:** *Lead a team of two, responsible for data analysis and knowledge articles that improved in 28% the FCR performance of the project. Outstanding technical support that resulted in new services and more profits for the company.*
+**Achievements:** *Lead a team of two, responsible for data analysis and knowledge articles that improved in 28% the FCR performance of the project. Zero customer escalations received and outstanding technical support that resulted in new services and more profits for the company.*
 ___
 
 Jan. 2011 – Sep. 2013 – **IT Technical Support** – Freelancer  
