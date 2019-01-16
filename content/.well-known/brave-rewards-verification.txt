@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: hicarlos.eu 
-Token: 2f453595c9ddfa441f6cfa853229aa8ae81dce334d67ecec39a50c9aaf742bf0
