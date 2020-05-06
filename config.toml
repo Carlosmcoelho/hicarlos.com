@@ -1,4 +1,4 @@
-baseurl = "//hicarlos.eu"
+baseurl = "/"
 title = "Carlos Coelho"
 
 theme = "hugo"
